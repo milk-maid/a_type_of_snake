@@ -16,7 +16,7 @@ elif bmi < 17:
 elif bmi < 18.5:
     print("You are mildly Underweight")
 elif bmi < 25:
-    print("You appear NORMAL")
+    print("You are COOL at the moment (NORMAL)")
 elif bmi < 30:
     print("You are OVERWEIGHT(pre-obese)")
 elif bmi < 35:
