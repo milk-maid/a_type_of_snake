@@ -15,5 +15,5 @@ for i in range(2, num//2 + 1):
 if yes:
     print(f"{num} is Prime number")
 else:
-    print(f"{num} is NOT Prime number")
+    print(f"{num} is NOT a Prime number")
 
